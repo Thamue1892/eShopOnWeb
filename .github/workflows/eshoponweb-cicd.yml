@@ -9,8 +9,7 @@ env:
   LOCATION: southafricanorth
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 1cfaf6d5-f777-4a3e-a84e-05ac25f8f4aa
-  WEBAPP-NAME: devops-webapp-westeurope-304712915
-
+  WEBAPP-NAME: devops-webapp-eastus-3169110294
 
 jobs:
   #Build, test and publish .net web project in repository
